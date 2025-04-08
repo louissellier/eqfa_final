@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="data/cbs_logo.png" alt="Columbia Business School" width="200"/>
+  <img src="/data/cbs_logo.png" alt="Columbia Business School" width="200"/>
 </p>
 
 # 📊 Accounting Integrity as Alpha: Testing the Beneish M-Score in Portfolio Strategy
