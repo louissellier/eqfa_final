@@ -5,6 +5,7 @@
 # 📊 Accounting Integrity as Alpha: Testing the Beneish M-Score in Portfolio Strategy
 
 **Author**: Louis Sellier
+
 **Course**: Earnings Quality and Fundamental Analysis (EQFA)  
 **Institution**: Columbia Business School  
 **Date**: Spring 2025
