@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="/data/cbs_logo.png" alt="Columbia Business School" width="200" width="500"/>
+  <img src="/data/cbs_logo.png" alt="Columbia Business School" width="200" width="500" height="200"/>
 </p>
 
 # 📊 Accounting Integrity as Alpha: Testing the Beneish M-Score in Portfolio Strategy
 
-**Author**: [Your Name]  
+**Author**: Louis Sellier
 **Course**: Earnings Quality and Fundamental Analysis (EQFA)  
 **Institution**: Columbia Business School  
 **Date**: Spring 2025
