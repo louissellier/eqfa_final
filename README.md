@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="/data/cbs_logo.png" alt="Columbia Business School"/>
+  <img src="path_to_logo/cbs_logo.png" alt="Columbia Business School" width="200"/>
 </p>
 
 # 📊 Accounting Integrity as Alpha: Testing the Beneish M-Score in Portfolio Strategy
 
-**Author**: Louis Sellier
-
+**Author**: [Louis Sellier]  
 **Course**: Earnings Quality and Fundamental Analysis (EQFA)  
 **Institution**: Columbia Business School  
 **Date**: Spring 2025
@@ -38,3 +37,7 @@ Using financial statement data from the **CFA Institute Level II curriculum data
   - Annual rebalancing of Best/Worst M-Score portfolios  
   - Return comparison against SPY  
   - HC1-robust firm-level regressions
+
+---
+
+## 📂 Repository Structure
