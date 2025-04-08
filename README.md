@@ -37,7 +37,3 @@ Using financial statement data from the **CFA Institute Level II curriculum data
   - Annual rebalancing of Best/Worst M-Score portfolios  
   - Return comparison against SPY  
   - HC1-robust firm-level regressions
-
----
-
-## 📂 Repository Structure
